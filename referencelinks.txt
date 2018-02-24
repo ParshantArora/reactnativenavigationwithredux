@@ -1,0 +1,1 @@
+https://github.com/wix/react-native-navigation/tree/master/old-example-redux
